@@ -22,4 +22,4 @@ string – for a sequence of characters (text)
 Using user input with these types helps understand input handling and type-specific behaviors.
 
 🔹Conclusion:
-We successfully implemented a C++ program using different data types with user input, enhancing understanding of variable types and input/output operations.
+I successfully implemented a C++ program using different data types with user input, enhancing understanding of variable types and input/output operations.
