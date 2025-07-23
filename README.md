@@ -10,17 +10,17 @@ To study and implement a basic C++ program that demonstrates the use of differen
 C++ provides several built-in data types that are essential for variable declaration and data storage:
 
 
-int – Stores whole numbers
+🔺int – Stores whole numbers
 
-float – Stores decimal numbers (single precision)
+🔺float – Stores decimal numbers (single precision)
 
-double – Stores large decimal numbers (double precision)
+🔺double – Stores large decimal numbers (double precision)
 
-char – Stores single characters
+🔺char – Stores single characters
 
-bool – Stores Boolean values (true or false)
+🔺bool – Stores Boolean values (true or false)
 
-string – Stores text (sequence of characters)
+🔺string – Stores text (sequence of characters)
 
 By using input statements with these types, we can understand how C++ handles various kinds of data and how different types behave during input/output operations.
 
