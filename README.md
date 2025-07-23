@@ -1,25 +1,29 @@
-🧪 Experiment 2: Study and Implementation of C++ Program Structure (Data Types)
+🧪 Experiment 2: C++ Program Structure and Data Types
 
-🔹 Aim:
-To study and implement a C++ program demonstrating different data types by taking input from the user.
+🔹 Aim
+
+To study and implement a basic C++ program that demonstrates the use of different data types by accepting user input.
 
 
-🔹 Theory:
-C++ provides built-in data types like:
+🔹 Theory
 
-int – for integers
+C++ provides several built-in data types that are essential for variable declaration and data storage:
 
-float – for decimal numbers
 
-double – for large decimal values
+int – Stores whole numbers
 
-char – for single characters
+float – Stores decimal numbers (single precision)
 
-bool – for true/false values
+double – Stores large decimal numbers (double precision)
 
-string – for a sequence of characters (text)
+char – Stores single characters
 
-Using user input with these types helps understand input handling and type-specific behaviors.
+bool – Stores Boolean values (true or false)
 
-🔹Conclusion:
-I successfully implemented a C++ program using different data types with user input, enhancing understanding of variable types and input/output operations.
+string – Stores text (sequence of characters)
+
+By using input statements with these types, we can understand how C++ handles various kinds of data and how different types behave during input/output operations.
+
+✅ Conclusion
+
+I implemented a simple C++ program that takes input for various data types, helping me understand how variables are declared, how input is taken from the user, and how data types affect program behavior. This experiment strengthened my foundational knowledge of C++ syntax and structure..
